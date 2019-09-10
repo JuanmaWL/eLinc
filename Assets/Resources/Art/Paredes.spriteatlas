@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Paredes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e17a8ef23918d0b44b950ab0ea44e87c, type: 3}
+    - {fileID: 21300000, guid: f4ade6dd5b7d611409fb19b125716f62, type: 3}
+    - {fileID: 102900000, guid: 59e70d392bb1fa944beb9295af4eed3c, type: 3}
+    totalSpriteSurfaceArea: 5855803
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6e450dc05dbb1fd469626d2f7833a2cb, type: 3}
+  - {fileID: 21300000, guid: 5c4b3ae37f7784f49bb8eaaed02f413d, type: 3}
+  - {fileID: 21300000, guid: d84f24241b1c47c4785fe3cd23c5cd01, type: 3}
+  - {fileID: 21300000, guid: 7d5a5eb47832e254fb84d608d36cd04a, type: 3}
+  - {fileID: 21300000, guid: e8ba85e4e4ba53440a486e34d3e35f4d, type: 3}
+  - {fileID: 21300000, guid: d08a855565aee304a83772f0dc07cc0d, type: 3}
+  - {fileID: 21300000, guid: e43f1d85ff40d934dad9e23229365670, type: 3}
+  - {fileID: 21300000, guid: 6942118709e96ef4dafa0e4860b9ef97, type: 3}
+  - {fileID: 21300000, guid: cfae4c386ad2afe4cb5f2efacb91e191, type: 3}
+  - {fileID: 21300000, guid: 114544192af6e72438d750fe15f6cc9d, type: 3}
+  - {fileID: 21300000, guid: 4d46291938637e74d8713ee3c3e5e37e, type: 3}
+  - {fileID: 21300000, guid: 499639695f51b804c80bf093419111a7, type: 3}
+  - {fileID: 21300000, guid: aca6b9a9b16a9464db1ded9a63c715b5, type: 3}
+  - {fileID: 21300000, guid: e2fa4b4a5adaada4f9bbd9d2e22a2117, type: 3}
+  - {fileID: 21300000, guid: 93c7eb4a58afe0643a4d1d3c6dd67479, type: 3}
+  - {fileID: 21300000, guid: d2803f4a02c4bb240b2b9162406ae4e0, type: 3}
+  - {fileID: 21300000, guid: f092bdda921bd1c44a0c007223bf5136, type: 3}
+  - {fileID: 21300000, guid: c04eebecde055cc4a99c420f805217e5, type: 3}
+  - {fileID: 21300000, guid: f659be6dfc4bc3b4eb9adf34d31151bd, type: 3}
+  - {fileID: 21300000, guid: 98f66fad090e051409afbe4a33d9cdb4, type: 3}
+  - {fileID: 21300000, guid: f4ade6dd5b7d611409fb19b125716f62, type: 3}
+  - {fileID: 21300000, guid: b786d9edc02e710419cfa409c2080555, type: 3}
+  - {fileID: 21300000, guid: 5b8e4b9ebb9f8f049a00ce4d3e0075a4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CirculoRojo
+  - Hamburguesa
+  - CirculoGris
+  - PepeAmarillo
+  - Carta
+  - Morado
+  - Gris
+  - Rojo
+  - Circulos
+  - Paleta
+  - Predeterminada
+  - Camiseta
+  - Balon
+  - Kiwi
+  - PepeVerde
+  - "Pi\xF1a"
+  - Manzana
+  - CirculoMorado
+  - Queso
+  - CirculoAzul
+  - suelo2
+  - Brocoli
+  - Mando
+  m_Tag: Paredes
+  m_IsVariant: 0
